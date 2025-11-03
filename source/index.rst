@@ -73,6 +73,7 @@ The sessions will take place in **CISPA Lecture Hall, Stuhlsatzenhaus 5**.
 +------------+------------+------------------------------------------------+
 
 
+📬 **Submit your questions** [**here**](https://forms.gle/enzD3i6yjbAFJaya6) — review sessions will be organized based on your questions and feedback.
 
 
 ---
@@ -113,6 +114,8 @@ If you find the tutorials helpful, please cite this course as:
    :caption: Tutorial 2: Intrusion Detection:
 
    tutorial_notebooks/tutorial2_anomaly_detection/tutorial2_anomaly_detection
+   tutorial_notebooks/tutorial2_2_deep_learning_anomaly_detection/tutorial2_2_deep_learning_anomaly_detection
+   tutorial_notebooks/tutorial2_3_analyzing_application-layer_protocols/tutorial2_3_analyzing_application-layer_protocols
 
 
 .. toctree::

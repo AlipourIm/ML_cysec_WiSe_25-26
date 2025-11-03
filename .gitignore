@@ -207,5 +207,9 @@ marimo/_lsp/
 __marimo__/
 .DS_Store
 source/tutorial_notebooks/getting_started_with_jupyter_and_python/iris.csv
+<<<<<<< HEAD
 
 mlsec/
+=======
+source/tutorial_notebooks/tutorial2_3_analyzing_application-layer_protocols/csic-2010-web-application-attacks.zip
+>>>>>>> 1b16fd0bcb8ec4b322aaf8a71886eff47a571702
