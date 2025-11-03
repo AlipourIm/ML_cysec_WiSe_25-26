@@ -117,10 +117,10 @@ If you find the tutorials helpful, please cite this course as:
    tutorial_notebooks/tutorial2_2_deep_learning_anomaly_detection/tutorial2_2_deep_learning_anomaly_detection
    tutorial_notebooks/tutorial2_3_analyzing_application-layer_protocols/tutorial2_3_analyzing_application-layer_protocols
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Tutorial 3: Evading ML-IDS:
+
    tutorial_notebooks/tutorial3_1_gan_getting_started/tutorial3_1_gan_getting_started
 
 
