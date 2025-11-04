@@ -50,7 +50,7 @@ The sessions will take place in **CISPA Lecture Hall, Stuhlsatzenhaus 5**.
 
 .. raw:: html
 
-   <p style="color:red;"><strong>Change of Location for the First Tutorial – Now in E1 3, Lecture Hall HS002</strong></p>
+   <p style="color:red;"><strong>Change of Location for the Second Tutorial – Now in CISPA Lecture Hall, Stuhlsatzenhaus 5</strong></p>
 
 +------------+------------+------------------------------------------------+
 | **Date**   | **Time**   | **Topic**                                      |
