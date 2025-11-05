@@ -50,7 +50,7 @@ The sessions will take place in **CISPA Lecture Hall, Stuhlsatzenhaus 5**.
 
 .. raw:: html
 
-   <p style="color:red;"><strong>Change of Location for the First Tutorial – Now in E1 3, Lecture Hall HS002</strong></p>
+   <p style="color:red;"><strong>Change of Location for the Second Tutorial – Now in CISPA Lecture Hall, Stuhlsatzenhaus 5</strong></p>
 
 +------------+------------+------------------------------------------------+
 | **Date**   | **Time**   | **Topic**                                      |
@@ -117,10 +117,11 @@ If you find the tutorials helpful, please cite this course as:
    tutorial_notebooks/tutorial2_2_deep_learning_anomaly_detection/tutorial2_2_deep_learning_anomaly_detection
    tutorial_notebooks/tutorial2_3_analyzing_application-layer_protocols/tutorial2_3_analyzing_application-layer_protocols
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Tutorial 3: Evading ML-IDS:
+
+   tutorial_notebooks/tutorial3_1_gan_getting_started/tutorial3_1_gan_getting_started
 
 
 .. toctree::
